@@ -28,9 +28,9 @@ const questions = [
     name: "usage",
   },
   {
-    type: "checkbox",
+    type: "list",
     message: "What type of license?",
-    choices: ["MIT", "Boost", "Perl", "Apache 2.0"],
+    choices: ["MIT", "Boost", "Perl", "Apache"],
     name: "license",
   },
   {
