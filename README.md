@@ -10,9 +10,7 @@ a Table of Contents, Links to our Contact Info and link to the the license we ar
 [!Video of Generator](https://drive.google.com/file/d/1kDsfD7jL8uoKQ5BsTGYJx1ie9ANVPxo3/view)
 
 
-SEE BELOW FOR EXAMPLE OF READ ME -
-
-# README.md GENERATOR
+## This is what will be generated...
 
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -48,7 +46,7 @@ SEE BELOW FOR EXAMPLE OF READ ME -
 
 ### Tests
 
-- BY testing it.
+- By testing it.
 
 #### Questions
 
