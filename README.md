@@ -1,16 +1,4 @@
-# README-Generator
-
-In this project, we created a README.md Generator. 
-Using inline command a user is prompted questions.
-The user than inputs their answers and a writetoFile function is initalized.
-Through generate markdown we made the README capable of formating with specific headings, 
-a Table of Contents, Links to our Contact Info and link to the the license we are using via a badge.
-
-# Video Walkthrough of README.md Generator
-[!Video of Generator](https://drive.google.com/file/d/1kDsfD7jL8uoKQ5BsTGYJx1ie9ANVPxo3/view)
-
-
-## This is what will be generated...
+# README.md GENERATOR
 
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -46,10 +34,9 @@ a Table of Contents, Links to our Contact Info and link to the the license we ar
 
 ### Tests
 
-- By testing it.
+- BY testing it.
 
 #### Questions
 
 - GitHub Profile: (https://github.com/camrynnesullivan)
 - Email: camrynne.sullivan@gmail.com
-
